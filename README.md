@@ -1,4 +1,4 @@
-# supermall
+# shop_back
 
 ## Project setup
 ```
